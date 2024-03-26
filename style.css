@@ -1,0 +1,23 @@
+/* file CSS */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #444444;
+    text-align: center;
+}
+p {
+    color: #666666;
+    font-size: 18px;
+    margin: 16px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    margin: 8px;
+    padding: 4px;
+}
